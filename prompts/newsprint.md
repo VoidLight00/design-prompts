@@ -4,6 +4,11 @@
 > **Author:** Zhou Jason
 > **Vibe:** Authoritative, intellectual, urgent, timeless
 
+## Reference Images
+
+![Overview](../images/newsprint/00-overview.jpg)
+![Style Guide - Typography](../images/newsprint/01-style-guide.jpg)
+
 ---
 
 <design-system>
