@@ -6,10 +6,9 @@
 
 ## Reference Images
 
-> 이 프롬프트로 만들면 이런 웹사이트가 나옵니다.
+> 이 프롬프트를 사용하면 아래와 같은 스타일로 결과물이 나옵니다.
 
-![Newsprint 스타일 랜딩페이지 전체](../images/newsprint/preview-full.jpg)
-![Newsprint 스타일 풀페이지](../images/newsprint/preview-fullpage.jpg)
+![Newsprint Design System — Typography, Color Palette, UI Elements](../images/newsprint/reference.jpg)
 
 ---
 
