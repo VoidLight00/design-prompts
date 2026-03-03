@@ -10,6 +10,7 @@
 | 스타일 | 미리보기 | 설명 | 소스 |
 |--------|----------|------|------|
 | [Newsprint](prompts/newsprint.md) | ![](images/newsprint/reference.jpg) | 신문 인쇄 스타일 — 고대비 타이포그래피, 그리드 레이아웃, 샤프한 기하학 | [SuperDesign](https://app.superdesign.dev/library/news-print) |
+| [Lumina — Neo-Brutalism](prompts/lumina-neo-brutalism.md) | ![](images/lumina/reference.jpg) | 네오 브루탈리즘 SaaS — 노란색 primary, 하드 쉐도우, bold 타이포그래피 | [SuperDesign](https://app.superdesign.dev/library/lumina-saas-landing-page) |
 
 ## 크레딧
 - 프롬프트 출처: [SuperDesign](https://app.superdesign.dev) / [designprompts.dev](https://designprompts.dev)
