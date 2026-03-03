@@ -7,7 +7,9 @@
 ## Reference Images
 
 ![Overview](../images/newsprint/00-overview.jpg)
-![Style Guide - Typography](../images/newsprint/01-style-guide.jpg)
+![01. Typography](../images/newsprint/01-style-guide.jpg)
+![02. Color Palette](../images/newsprint/02-color-palette.jpg)
+![03. UI Elements](../images/newsprint/03-ui-elements.jpg)
 
 ---
 
