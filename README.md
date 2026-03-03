@@ -7,9 +7,9 @@
 
 ## 컬렉션
 
-| 스타일 | 설명 | 소스 |
-|--------|------|------|
-| [Newsprint](prompts/newsprint.md) | 신문 인쇄 스타일 — 고대비 타이포그래피, 그리드 레이아웃, 샤프한 기하학 | [SuperDesign](https://app.superdesign.dev/library/news-print) |
+| 스타일 | 미리보기 | 설명 | 소스 |
+|--------|----------|------|------|
+| [Newsprint](prompts/newsprint.md) | ![](images/newsprint/preview-full.jpg) | 신문 인쇄 스타일 — 고대비 타이포그래피, 그리드 레이아웃, 샤프한 기하학 | [SuperDesign](https://app.superdesign.dev/library/news-print) |
 
 ## 크레딧
 - 프롬프트 출처: [SuperDesign](https://app.superdesign.dev) / [designprompts.dev](https://designprompts.dev)

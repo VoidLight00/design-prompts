@@ -6,10 +6,10 @@
 
 ## Reference Images
 
-![Overview](../images/newsprint/00-overview.jpg)
-![01. Typography](../images/newsprint/01-style-guide.jpg)
-![02. Color Palette](../images/newsprint/02-color-palette.jpg)
-![03. UI Elements](../images/newsprint/03-ui-elements.jpg)
+> 이 프롬프트로 만들면 이런 웹사이트가 나옵니다.
+
+![Newsprint 스타일 랜딩페이지 전체](../images/newsprint/preview-full.jpg)
+![Newsprint 스타일 풀페이지](../images/newsprint/preview-fullpage.jpg)
 
 ---
 
